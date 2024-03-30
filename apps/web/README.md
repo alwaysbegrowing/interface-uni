@@ -1,6 +1,6 @@
 # Uniswap Labs Web Interface
 
-## Accessing the Uniswap Interface
+## Accessing the Uniswap Interface 
 
 To access the Uniswap Interface, use an IPFS gateway link from the
 [latest release](https://github.com/Uniswap/uniswap-interface/releases/latest),
